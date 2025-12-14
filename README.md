@@ -59,19 +59,20 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/<Dashboard .jpg>" width="250">
-  <img src="assets/<Match_starting.jpg>" width="250">
-  <img src="assets/<Score_screen.jpg>" width="250">
-  <img src="assets/<Top batsman.jpg>" width="250">
-  <img src="assets/<Top_bolwer.jpg>" width="250">
-  <img src="assets/<Schedule _screen.jpg>" width="250">
-  <img src="assets/<Schedule_match.jpg>" width="250">
-  <img src="assets/<Match_filter.jpg>" width="250">
-  <img src="assets/<Match_hostory.jpg>" width="250">
-  <img src="assets/<Current_match_history.jpg>" width="250">
-  <img src="assets/<History_filter.jpg>" width="250">
-  <img src="assets/<About.jpg>" width="250">
+  <img src="assets/dashboard.jpg" width="250">
+  <img src="assets/match_starting.jpg" width="250">
+  <img src="assets/score_screen.jpg" width="250">
+  <img src="assets/top_batsman.jpg" width="250">
+  <img src="assets/top_bowler.jpg" width="250">
+  <img src="assets/schedule_screen.jpg" width="250">
+  <img src="assets/schedule_match.jpg" width="250">
+  <img src="assets/match_filter.jpg" width="250">
+  <img src="assets/match_history.jpg" width="250">
+  <img src="assets/current_match_history.jpg" width="250">
+  <img src="assets/history_filter.jpg" width="250">
+  <img src="assets/about.jpg" width="250">
 </p>
+
 
 
 ---
